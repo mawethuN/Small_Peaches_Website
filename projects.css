@@ -19,6 +19,15 @@ h2 {
     margin-left: 4rem;
 }
 
+h3 {
+    color: #ff8914;
+    text-align: left;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 16rem;
+    margin-right: 16rem;
+}
+
 p {
     color: rgb(255, 255, 255);
     text-align: left;
@@ -70,4 +79,13 @@ button:active {
 
 .img-col {
     flex-basis: 100%;
+}
+
+iframe {
+    margin-left: 30rem;
+    margin-right: 30rem;
+}
+
+ul {
+    color: white;
 }
